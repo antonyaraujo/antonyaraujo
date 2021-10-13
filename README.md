@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oi, aqui é meu repositório 👋
 
 <!--
 **antonyaraujo/antonyaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Atualmente eu estou trabalhando no BusOn
+- 🌱 Estudando o framework Laravel
+- 👯 Trabalhando cooperativamente com:
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Java ou Banco de Dados
+- 📫 Você pode entrar em contato em: antonyaraujo@protonmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
