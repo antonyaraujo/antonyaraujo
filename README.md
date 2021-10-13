@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonyaraujo&show_icons=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonyaraujo&show_icons=true&count_private=true&theme=github_dark&locale=en&gradient=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyaraujo&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyaraujo&layout=compact&count_private=true&theme=github_dark" />
 </a>
 
 
