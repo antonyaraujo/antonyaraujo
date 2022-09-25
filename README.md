@@ -5,7 +5,7 @@
 
 
 - 💻 Atualmente estou trabalhando na <a href="https://github.com/geodatin">Geodatin</a>
-- 🧐 Estou estudando React Native, Next, JS e outras tecnologias de fron-end
+- 🧐 Estou estudando React Native, Next, JS e outras tecnologias de front-end
 - 👨🏽‍💻 Tenho experiência com Java, Python, MySQL e Banco de Dados SQL
 - 📄 Você pode visualizar meu currículo <a href="">clicando aqui</a>
 - 📫 Você pode entrar em contato comigo em: antony@ecomp.uefs.br
@@ -100,7 +100,3 @@
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=antonyaraujo&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
-
-------
-Template: [1999azzar](https://github.com/1999azzar)
-Editado pela última vez em: 12/09/2022
