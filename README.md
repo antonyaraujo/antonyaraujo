@@ -3,8 +3,6 @@
 <h4 align="center">Desenvolvedor web, Técnico em informática e Bacharelando em Engenharia de Computação</h4>
 </div>
 
-
-- 💻 Atualmente estou trabalhando na <a href="https://github.com/geodatin">Geodatin</a>
 - 🧐 Estou estudando React Native, Next, JS e outras tecnologias de front-end
 - 👨🏽‍💻 Tenho experiência com Java, Python, MySQL e Banco de Dados SQL
 - 📄 Você pode visualizar meu currículo <a href="">clicando aqui</a>
