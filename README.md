@@ -55,7 +55,7 @@ Sou um **Desenvolvedor de Software Full Stack** apaixonado por criar soluções 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonyaraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonyaraujo&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonyaraujo&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
